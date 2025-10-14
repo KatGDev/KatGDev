@@ -19,5 +19,7 @@
 
  
 <p> Helloooo!! </p>
-<p> My name is Kat, I go by N3K0F0X also </p>
-<p> Im a Game Developer and general C#/C++ Dev too </p>
+
+<p> My name is Kat, I go by N3K0F0X online as well. Im a Game Developer and general C#/C++ Developer, mostly I focus on Game Development and strive to make games that connect with people. </p>
+
+[![N3K0F0X's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3K0F0X)](https://github.com/anuraghazra/github-readme-stats)
