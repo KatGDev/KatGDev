@@ -1,6 +1,5 @@
 <h1 align=center>Welcome! :wave:</h1>
-<img width="155" height="72" alt="ascii-art-text(1)" src="https://github.com/user-attachments/assets/4430f2ec-5834-4039-b995-a03a121794e2" />
-
+<img width="214" height="114" alt="ascii-art-text(2)" src="https://github.com/user-attachments/assets/f258ba5e-34b1-42e0-9861-446ce56f77e3" />
 
 ## About me!
 
