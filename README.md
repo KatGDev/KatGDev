@@ -7,5 +7,5 @@
 <p> My name is Kat and I'm a student studying Computer Science with a focus for Game Development. I also have skills in developing applications in C#, C++, Web Development, and Java.</p>
 
 ## My stats!
-[![Kat's GitHub stats!](https://github-stats-extended.vercel.app/api?username=KatGDev)](https://github.com/stats-organization/github-stats-extended)
+[![Kat's GitHub stats!](https://github-stats-extended.vercel.app/api?username=KatGDev&theme-radical)](https://github.com/stats-organization/github-stats-extended)
 [![Kat's GitHub Stats!](https://github-stats-extended.vercel.app/api/top-langs?username=KatGDev&layout=compact&langs_count=6&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=KatGDev&layout=compact&langs_count=6&theme=radical)
